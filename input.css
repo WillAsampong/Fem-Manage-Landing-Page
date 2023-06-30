@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mobile-menu {
+    display: none;
+}
+
+/* * {
+    outline: 1px solid red;
+} */
